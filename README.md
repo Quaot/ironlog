@@ -1,4 +1,4 @@
-# Gym App
+# IronLog
 
 A phone-first workout tracker: log sets with one thumb on custom tape sliders,
 see exactly what you lifted last time, watch a month or a year of progress, and
